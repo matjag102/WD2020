@@ -1,0 +1,3 @@
+a=input("napisz zdanie\n")
+print(a)
+print('ilosc spacji :', a.count(' '))
